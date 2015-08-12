@@ -194,3 +194,5 @@ this package: it summarizes some gritty details about awk semantics, the
 behavior of some different awk implementations, and correlates functions
 available in awk + awkenough to those available in lua.
 
+
+Join the chat at https://gitter.im/b4b4r07/awkenough
